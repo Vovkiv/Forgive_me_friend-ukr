@@ -1,10 +1,14 @@
-# /Назва Фанфіка/ - Українською
-![обкладинка](https://github.com/Vovkiv/fanfic-translation-template/blob/main/src/cover-ukr.png?raw=true)
+# /Forgive Me, Friend/ - Українською
+![обкладинка](https://github.com/Vovkiv/Forgive_me_friend-ukr/blob/main/src/cover-ukr.png?raw=true)
 
-/перекладений опис фанфіка з fimfiction/
+/Twelve years ago, Rainbow married the woman of her dreams. Seven years ago, that same woman walked out on her. Now she comes home to find Rarity waiting outside her condo's door.
+
+It might be the most frightening thing that's ever happened to her./
+
+[Ця історія складається із 3 фанфіків. Це 3 частина. Інші ви можете знайти тут: https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate.]
 
 # Як відкрити? Де фанфік?
-пдф файл: https://github.com/Vovkiv/fanfic-translation-template/blob/main/fic-ukr.pdf
+пдф файл: https://github.com/Vovkiv/Forgive_me_friend-ukr/blob/main/Forgive%20Me%20Friend%20-%20ukr.pdf
 
 Ви його можете одразу читати його у гітхабі, або можете завантажити.
 
@@ -29,10 +33,7 @@
 Тоді ви можете написати мені тут: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
 # Original fic:
-https://www.fimfiction.net/story/посилання_на_фанфік
-
-# Original cover:
-https://посилання_на_обкладинку
+https://www.fimfiction.net/story/461702/forgive-me-friend
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
