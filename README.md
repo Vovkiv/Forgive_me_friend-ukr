@@ -1,9 +1,9 @@
-# /Forgive Me, Friend/ - Українською
+# Пробач мені, подруго - Українською
 ![обкладинка](https://github.com/Vovkiv/Forgive_me_friend-ukr/blob/main/src/cover-ukr.png?raw=true)
 
-/Twelve years ago, Rainbow married the woman of her dreams. Seven years ago, that same woman walked out on her. Now she comes home to find Rarity waiting outside her condo's door.
+Дванадцять років тому, Рейнбоу одружилась з жінкою її мрій. Сім років тому, та ж жінка покинула її. Тепер вона повернулась додому, де Реріті очікувала її біля дверей квартири.
 
-It might be the most frightening thing that's ever happened to her./
+Це може бути найжахливіше, що могло статися з нею.
 
 [Ця історія складається із 3 фанфіків. Це 3 частина. Інші ви можете знайти тут: https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate.]
 
@@ -34,6 +34,9 @@ It might be the most frightening thing that's ever happened to her./
 
 # Original fic:
 https://www.fimfiction.net/story/461702/forgive-me-friend
+
+# Original cover:
+Made by https://www.deviantart.com/nekojackun specially for author of said fic, PaulAsaran. Permission was granted by PaulAsaran.
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
